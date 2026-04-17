@@ -72,15 +72,6 @@ const hanz = {
 
 ### Featured projects
 
-<details open>
-<summary><b>🗺 &nbsp;Municipal Traffic Police Platform &nbsp;·&nbsp; <code>2025</code></b></summary>
-<br/>
-
-Real-time web platform for monitoring Municipal Traffic Police agents. Interactive maps, incident management, mobile app integration. Reduced response time by **40%**.
-
-**Stack:** `React` `Next.js` `TypeScript` `Supabase` `Docker` `GitHub Actions`
-
-[→ View on GitHub](https://github.com/maveHanzzz/pmtproject)
 
 </details>
 
@@ -96,7 +87,7 @@ Image classification model trained with TensorFlow and Keras to identify waste t
 
 </details>
 
-<details>
+<details open>
 <summary><b>🛒 &nbsp;E-Commerce Frontend &nbsp;·&nbsp; <code>2024</code></b></summary>
 <br/>
 
