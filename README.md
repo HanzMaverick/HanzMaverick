@@ -23,7 +23,7 @@
 
 ### About me
 
-Jr Full Stack Developer and Systems Engineering student at UMES.
+Full Stack Developer and Systems Engineering student at UMES.
 
 I design and build **scalable**, **real-time** web systems — clean frontends, solid backends and automated deployments. I care about architecture, readable code and the UX details that most people don't notice but everyone feels.
 
