@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-111?style=for-the-badge&logoColor=white&logo=vercel)](https://hanzmaverick.dev)
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-111?style=for-the-badge&logoColor=white&logo=vercel)](https://hanzmaverick.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-111?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/maverick-ruiz-1874501aa/)
 [![Email](https://img.shields.io/badge/◈_Email-111?style=for-the-badge&logoColor=white&logo=gmail)](mailto:maickgodruiz@gmail.com)
 [![GitHub](https://img.shields.io/badge/◈_GitHub-111?style=for-the-badge&logoColor=white&logo=github)](https://github.com/HanzMaverick)
