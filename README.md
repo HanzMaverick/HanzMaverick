@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:0d0d0d,100:000000&height=240&section=header&text=Hanz%20Maverick&fontSize=56&fontColor=ffffff&fontAlignY=52&animation=fadeIn&desc=Full+Stack+Developer+%C2%B7+Quetzaltenango%2C+%F0%9F%87%AC%F0%9F%87%B9&descSize=15&descColor=555555&descAlignY=70&stroke=1a1a1a&strokeWidth=1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=AAAAAA&center=true&vCenter=true&width=620&lines=Hey+%F0%9F%91%8B+I'm+Hanz+%E2%80%94+Jr+Full+Stack+Developer;I+build+fast%2C+clean+%26+scalable+web+systems.;React+%2F+Next.js+%2F+FastAPI+%2F+Supabase+%2F+Docker;Currently+open+to+remote+opportunities.;Let's+build+something+great." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=AAAAAA&center=true&vCenter=true&width=620&lines=Hey+%F0%9F%91%8B+I'm+Hanz+%E2%80%94+Full+Stack+Developer;I+build+fast%2C+clean+%26+scalable+web+systems.;React+%2F+Next.js+%2F+FastAPI+%2F+Supabase+%2F+Docker;Currently+open+to+remote+opportunities.;Let's+build+something+great." />
 
 <br/>
 
